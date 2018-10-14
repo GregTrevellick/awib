@@ -6,6 +6,7 @@
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/awib?branch=master)](https://bettercodehub.com/results/GregTrevellick/awib)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9db6094d5fd342ee8a8740efd33526c9)](https://www.codacy.com/project/gtrevellick/awib/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/awib&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-awib-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/awib/badge)](https://www.codefactor.io/repository/github/GregTrevellick/awib)
 
 
